@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oi, eu sou o Matheus.
+#### Bem vindo ao meu perfil!
 
-<!--
-**matheus-nbx52/matheus-nbx52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matheus-nbx52)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:matheusfssilva2001@gmail.com) 
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/matheus-nbx52) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-nbx52&show_icons=true)  
+
+  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nbx52)](https://github.com/anuraghazra/github-readme-stats)
