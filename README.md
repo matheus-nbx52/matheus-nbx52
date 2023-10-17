@@ -2,8 +2,6 @@
 #### Bem-vindo ao meu perfil!
 
  ##
- 
-![Profile views](https://gpvc.arturio.dev/matheus-nbx52) 
 
 <div align="center">
   <a href="https://github.com/matheus-nbx52">
