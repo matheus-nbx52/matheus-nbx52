@@ -59,6 +59,10 @@ _"Minha paixão pela tecnologia nasceu da curiosidade em criar mods para jogos. 
 
 <br><br>
 
-![Snake animation](https://raw.githubusercontent.com/matheus-nbx52/matheus-nbx52/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-nbx52/matheus-nbx52/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-nbx52/matheus-nbx52/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/matheus-nbx52/matheus-nbx52/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
