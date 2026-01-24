@@ -5,7 +5,7 @@
 
 <br>
 
-_"Minha paixão pela tecnologia nasceu da curiosidade em criar mods para jogos. Hoje, transformo essa criatividade em soluções de software eficazes e escaláveis."_
+_"Meu interesse pela tecnologia nasceu da curiosidade em criar mods para jogos. Hoje, tento transformar essa criatividade em soluções de software."_
 
 <br>
 
