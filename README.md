@@ -59,6 +59,10 @@ _"Meu interesse pela tecnologia nasceu da curiosidade em criar mods para jogos. 
 
 <br><br>
 
-![Pacman Animation](https://raw.githubusercontent.com/matheus-nbx52/matheus-nbx52/output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-nbx52/matheus-nbx52/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-nbx52/matheus-nbx52/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/matheus-nbx52/matheus-nbx52/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
