@@ -1,11 +1,16 @@
 <div align="center">
 
-# Matheus Francisco
-### Desenvolvedor Full Stack
+# Olá, eu sou o Matheus Francisco! 👋
+### Desenvolvedor Full Stack  
 
 <br>
 
-_"Meu interesse pela tecnologia nasceu da curiosidade em criar mods para jogos. Hoje, tento transformar essa criatividade em soluções de software."_
+_Meu interesse pela tecnologia nasceu da curiosidade em criar mods para jogos. Hoje, transformo essa criatividade em engenharia de software, desenvolvendo soluções escaláveis, automações eficientes e seguras — do backend ao deploy._ 🚀
+
+<br>
+
+**Formação Acadêmica:** Análise e Desenvolvimento de Sistemas (IFPE) & Defesa Cibernética (Estácio)  
+**Áreas de Interesse:** Engenharia de Software, Cloud Native, Cibersegurança e Arquitetura de Sistemas
 
 <br>
 
@@ -15,7 +20,7 @@ _"Meu interesse pela tecnologia nasceu da curiosidade em criar mods para jogos. 
 
 **Principal:** React, Next.js, Node.js & TypeScript  
 **Multi-Stack:** .NET, Python, SQL  
-**Infra & Tools:** Docker, AWS
+**Infra & Tools:** Docker, AWS, APIs RESTful, Microsserviços
 
 <br>
 
