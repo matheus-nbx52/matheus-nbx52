@@ -18,8 +18,8 @@ _Meu interesse pela tecnologia nasceu da curiosidade em criar mods para jogos. H
 
 ### 🛠️ Tech Stack
 
-**Principal:** React, Next.js, Node.js & TypeScript  
-**Multi-Stack:** .NET, Python, SQL  
+**Principal:** Java, Spring Boot, Angular, React, Next.js, Node.js & TypeScript  
+**Multi-Stack:** C# .NET, Python, SQL  
 **Infra & Tools:** Docker, AWS, APIs RESTful, Microsserviços
 
 <br>
