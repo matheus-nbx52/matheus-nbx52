@@ -1,11 +1,11 @@
 <div align="center">
 
-# Olá, me chamo Matheus Francisco! 👋
+# Olá, seja bem-vindo ao meu perfil! 👋
 ### Desenvolvedor Full Stack  
 
 <br>
 
-_Meu interesse pela tecnologia nasceu da curiosidade em criar mods para jogos. Hoje, transformo essa criatividade em engenharia de software, desenvolvendo soluções escaláveis, automações eficientes e seguras — do backend ao deploy._ 🚀
+_Aqui você encontra meus projetos em desenvolvimento e as tecnologias que estou estudando e praticando no momento._ 🚀
 
 <br>
 
@@ -24,7 +24,8 @@ _Meu interesse pela tecnologia nasceu da curiosidade em criar mods para jogos. H
 
 <br>
 
-<div style="display: inline_block">
+<div style="display: inline-block">
+    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -46,8 +47,8 @@ _Meu interesse pela tecnologia nasceu da curiosidade em criar mods para jogos. H
 
 <div align="center">
   <a href="https://github.com/matheus-nbx52">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheus-nbx52&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheus-nbx52&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheus-nbx52&theme=dark"/>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=matheus-nbx52&theme=dark"/>
   </a>
 </div>
 
